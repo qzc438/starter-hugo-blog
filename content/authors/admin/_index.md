@@ -1,8 +1,7 @@
 ---
 title: Zhangcheng Qiang
 role: PhD student
-bio: My research interests include ontology engineering, semantic web and deep
-  learning.
+bio: My research interests include ontology, semantic web and deep learning.
 interests:
   - Ontology Engineering
   - Semantic Web
