@@ -4,7 +4,7 @@ widget_id: change to your own setting
 headless: true
 weight: 10
 title: ANU Knowledge Graph Engineering Group
-subtitle: Member
+subtitle: Zhangcheng Qiang
 design:
   background:
     color: "#090a0b"
